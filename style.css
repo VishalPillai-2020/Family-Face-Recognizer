@@ -1,0 +1,73 @@
+.btn-default-heading{
+    font-size:30px;
+}
+body {
+    background-color: #bd4f6c;
+    background-image: linear-gradient(100deg, #bd4f6c 0%, #d7816a 50%,#6b0f1a 0%, #b91372 74% );
+
+
+    
+    
+}
+b{
+    color:black;
+}
+#webcam{
+  width:500px;
+    border:5px grey;
+    border-style:inset;
+
+}
+#object_name, #accuracy_count{
+    color:white;
+}
+#btn_1{
+    
+background-image: linear-gradient(to right, #C04848 0%, #480048  51%, #C04848  100%);
+    
+
+    
+    
+}
+#btn_1 {
+    margin: 10px;
+    padding: 10px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;
+    font-family:SF Pro Display;
+     font-size:15px;
+  }
+  #btn_1:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  #btn_2 {background-image: linear-gradient(to right, #000000 0%, #53346D  51%, #000000  100%)}
+  #btn_2 {
+     margin: 10px;
+     padding: 10px 30px;
+     text-align: center;
+     text-transform: uppercase;
+     transition: 0.5s;
+     background-size: 200% auto;
+     color: white;            
+     box-shadow: 0 0 20px #eee;
+     border-radius: 10px;
+     display: block;
+     font-family:SF Pro Display;
+     font-size:15px;
+   }
+
+   #btn_2:hover {
+     background-position: right center; /* change the direction of the change here */
+     color: #fff;
+     text-decoration: none;
+   }
+  
